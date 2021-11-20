@@ -40,4 +40,3 @@ Please check requirement.txt file (all the libraries will be installed automatic
 
 Name: Aloukik Aditya (Computer Vision Engineer)
 Email: aloukikaditya@gmail.com
-Phone: +1 905 906 0188
