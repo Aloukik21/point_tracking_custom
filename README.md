@@ -41,4 +41,5 @@ Please check requirement.txt file (all the libraries will be installed automatic
 
 # **Author**
 Name: Aloukik Aditya (Computer Vision Engineer / Machine learning engineer)
+
 Email: aloukikaditya@gmail.com
