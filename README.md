@@ -40,5 +40,5 @@ Please check requirement.txt file (all the libraries will be installed automatic
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/30460954/144480184-1173c456-ec90-41d9-b46f-75cbc8859c97.gif)
 
 # **Author**
-Name: Aloukik Aditya (Computer Vision Engineer)
+Name: Aloukik Aditya (Computer Vision Engineer / Machine learning engineer)
 Email: aloukikaditya@gmail.com
