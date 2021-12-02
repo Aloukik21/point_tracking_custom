@@ -1,4 +1,4 @@
-﻿
+# User defined point tracking and saving coordinates to csv file
 # Lucas–Kanade method
 
 It assumes that the flow is essentially constant in a local neighbourhood of the pixel under consideration, and solves the basic optical flow equations for all the pixels in that neighbourhood, by the least squares criterion.
